@@ -1,0 +1,10 @@
+{
+  "versao_atual": "1.0.0",
+  "link_download": "https://google.com",
+  "aviso_global": "Bem-vindo ao CJ Downloader! Sistema Operacional.",
+  "mostrar_aviso": true,
+  "usuarios_permitidos": [
+    "ADMIN-PC",
+    "TESTE-123"
+  ]
+}
