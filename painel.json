@@ -1,6 +1,6 @@
 {
-  "usuarios_permitidos": ["ID1", "ID2"],  // Liberados
-  "solicitacoes_pendentes": ["ID3", "ID4"],  // Aguardando aprovação
-  "mostrar_aviso": false,  // Se true, BLOQUEIA TODO MUNDO
-  "aviso_global": ""  // Mensagem que aparece quando bloqueado
+  "usuarios_permitidos": ["ID*", "ID2", "97726D12CCC7"],
+  "solicitacoes_pendentes": ["ID3", "ID4"],
+  "mostrar_aviso": false,
+  "aviso_global": ""
 }
