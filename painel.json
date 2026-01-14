@@ -1,11 +1,6 @@
 {
-  "versao_atual": "1.0.0",
-  "link_download": "https://google.com",
-  "aviso_global": "Bem-vindo ao CJ Downloader! Sistema Operacional.",
-  "mostrar_aviso": true,
-  "usuarios_permitidos": [
-    "ADMIN-PC",
-    "TESTE-123",
-    "97726D12CCC7"
-  ]
+  "usuarios_permitidos": ["ID1", "ID2"],  // Liberados
+  "solicitacoes_pendentes": ["ID3", "ID4"],  // Aguardando aprovação
+  "mostrar_aviso": false,  // Se true, BLOQUEIA TODO MUNDO
+  "aviso_global": ""  // Mensagem que aparece quando bloqueado
 }
