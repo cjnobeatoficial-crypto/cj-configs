@@ -1,5 +1,8 @@
 {
-  "usuarios_permitidos": ["ADMIN-PC", "TESTE-123", "97726D12CCC7"],
+  "usuarios_permitidos": [
+    "TESTE-123",
+    "97726D12CCC7"
+  ],
   "solicitacoes_pendentes": [],
   "mostrar_aviso": false,
   "aviso_global": ""
