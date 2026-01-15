@@ -1,7 +1,5 @@
 {
-  "usuarios_permitidos": [
-    "97726D12CCC7"
-  ],
+  "usuarios_permitidos": [],
   "solicitacoes_pendentes": [],
   "mostrar_aviso": false,
   "aviso_global": ""
