@@ -5,5 +5,15 @@
   "aviso_global": "",
   "usuarios": [],
   "pendentes": [],
-  "codigos_ativacao": []
+  "codigos_ativacao": [
+    {
+      "codigo": "D3OL-0OZ9-F978-WJLW",
+      "tipo": "Premium",
+      "validade": "30 dias",
+      "expira_em": "2026-02-15",
+      "criado_em": "2026-01-16 13:16",
+      "usado": false,
+      "usado_por": null
+    }
+  ]
 }
