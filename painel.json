@@ -3,7 +3,16 @@
   "solicitacoes_pendentes": [],
   "mostrar_aviso": false,
   "aviso_global": "",
-  "usuarios": [],
+  "usuarios": [
+    {
+      "hwid": "97726D12CCC7",
+      "nome": "Usuário",
+      "email": "",
+      "status": "ativo",
+      "email_verificado": true,
+      "criado_em": "2026-01-16T13:37:44.921020"
+    }
+  ],
   "pendentes": [],
   "codigos_ativacao": []
 }
