@@ -1,16 +1,3 @@
 {
-  "tickets": [
-    {
-      "id": "45AD909F",
-      "titulo": "adaxaxaxa",
-      "descricao": "ala alalaaadadadaxaaaaaaaaaaaaaaaaxcaxa",
-      "categoria": "❌ Download não inicia",
-      "hwid": "34a0d924ea97797c",
-      "versao": "3.0.0",
-      "criado_em": "2026-01-20 23:58",
-      "status": "resolvido",
-      "anexos": [],
-      "resolvido_em": "2026-01-20 23:58"
-    }
-  ]
+  "tickets": []
 }
