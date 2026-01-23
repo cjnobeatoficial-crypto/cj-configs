@@ -1,0 +1,29 @@
+{
+  "app_settings": {
+    "maintenance_mode": false,
+    "maintenance_message": "O CJ Downloader está em manutenção. Tente novamente em alguns minutos.",
+    "min_version": "1.0.0",
+    "force_update": false
+  },
+  "pages": {
+    "audio": {"enabled": true, "message": ""},
+    "video": {"enabled": true, "message": ""},
+    "social": {"enabled": true, "message": ""},
+    "files": {"enabled": true, "message": ""},
+    "isrc": {"enabled": true, "message": ""}
+  },
+  "announcement": {
+    "show_banner": false,
+    "banner_message": "",
+    "banner_type": "info",
+    "banner_url": ""
+  },
+  "limits": {
+    "daily_downloads": 0,
+    "max_concurrent": 5,
+    "max_playlist_size": 0
+  },
+  "banned_hwids": [],
+  "custom_messages": {},
+  "last_updated": "2025-01-23T00:00:00"
+}
