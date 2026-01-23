@@ -1,0 +1,6 @@
+{
+  "version": "1.0.1",
+  "download_url": "https://github.com/.../CJDownloader_Setup.exe",
+  "changelog": "🔧 Correções:\n- Bug do thumbnail\n- Progress bar",
+  "force_update": false
+}
