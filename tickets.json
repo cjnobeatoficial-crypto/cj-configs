@@ -21,6 +21,23 @@
       "criado_em": "2026-01-23 13:41",
       "status": "aberto",
       "anexos": []
+    },
+    {
+      "id": "B98C8C56",
+      "titulo": "aaaaaaa",
+      "descricao": "ai ai ai aiaaaaaaaaaa",
+      "categoria": "❌ Download não inicia",
+      "hwid": "34a0d924ea97797c",
+      "versao": "",
+      "criado_em": "2026-01-24 16:03",
+      "status": "aberto",
+      "anexos": [
+        {
+          "nome": "hitdoverao_lockup.png",
+          "tipo": "image",
+          "tamanho": 77346
+        }
+      ]
     }
   ]
 }
