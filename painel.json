@@ -4,6 +4,15 @@
   "mostrar_aviso": false,
   "aviso_global": "",
   "usuarios": [],
-  "pendentes": [],
+  "pendentes": [
+    {
+      "nome": "cj",
+      "email": "cjnobeatoficial@gmail.com",
+      "senha_hash": "09df421036268ff71359a12a09bdc03d3df7e7b164d4f361ae9a8f385e5b55d8",
+      "hwid": "90AF7B093517E8F9",
+      "email_verificado": true,
+      "criado_em": "2026-01-27T14:55:33.853884"
+    }
+  ],
   "codigos_ativacao": []
 }
