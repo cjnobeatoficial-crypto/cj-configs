@@ -3,17 +3,7 @@
   "solicitacoes_pendentes": [],
   "mostrar_aviso": false,
   "aviso_global": "",
-  "usuarios": [
-    {
-      "hwid": "90AF7B093517E8F9",
-      "nome": "cjteste2",
-      "email": "cjrmxx@gmail.com",
-      "senha_hash": "7c486d5f86d01c7b018f0a2ca9bddbdd7f37581f0325036d703312774af45d38",
-      "status": "banido",
-      "email_verificado": true,
-      "criado_em": "2026-01-26T23:43:21.953789"
-    }
-  ],
+  "usuarios": [],
   "pendentes": [],
   "codigos_ativacao": []
 }
