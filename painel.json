@@ -3,17 +3,7 @@
   "solicitacoes_pendentes": [],
   "mostrar_aviso": false,
   "aviso_global": "",
-  "usuarios": [
-    {
-      "hwid": "90AF7B093517E8F9",
-      "nome": "cj",
-      "email": "cjnobeatoficial@gmail.com",
-      "senha_hash": "3822f4bd2a5a39051c942a9f4e11f4cb1fa3bdbe65a31c76cf12480430cc0e2a",
-      "status": "ativo",
-      "email_verificado": true,
-      "criado_em": "2026-01-27T15:00:33.515603"
-    }
-  ],
+  "usuarios": [],
   "pendentes": [],
   "codigos_ativacao": []
 }
