@@ -4,6 +4,15 @@
   "mostrar_aviso": false,
   "aviso_global": "",
   "usuarios": [],
-  "pendentes": [],
+  "pendentes": [
+    {
+      "nome": "cj",
+      "email": "cjrmxx@gmail.com",
+      "senha_hash": "3822f4bd2a5a39051c942a9f4e11f4cb1fa3bdbe65a31c76cf12480430cc0e2a",
+      "hwid": "AFD1C5E0F4170EAD67183CF327662EBC",
+      "email_verificado": true,
+      "criado_em": "2026-01-29T05:35:49.948Z"
+    }
+  ],
   "codigos_ativacao": []
 }
