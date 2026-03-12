@@ -51,11 +51,16 @@
           "autor": "user",
           "texto": "ta tudo errado mano",
           "data": "2026-03-12T03:50:16.339Z"
+        },
+        {
+          "autor": "admin",
+          "texto": "problema seu cuzao sifoda",
+          "data": "2026-03-12T03:50:49.953Z"
         }
       ],
-      "status": "aberto",
+      "status": "respondido",
       "criado_em": "2026-03-12T03:50:16.339Z",
-      "atualizado_em": "2026-03-12T03:50:16.339Z"
+      "atualizado_em": "2026-03-12T03:50:49.952Z"
     }
   ]
 }
