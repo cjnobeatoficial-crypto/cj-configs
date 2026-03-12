@@ -56,11 +56,16 @@
           "autor": "admin",
           "texto": "problema seu cuzao sifoda",
           "data": "2026-03-12T03:50:49.953Z"
+        },
+        {
+          "autor": "admin",
+          "texto": "fudido\n",
+          "data": "2026-03-12T04:14:57.247Z"
         }
       ],
       "status": "respondido",
       "criado_em": "2026-03-12T03:50:16.339Z",
-      "atualizado_em": "2026-03-12T03:50:49.952Z"
+      "atualizado_em": "2026-03-12T04:14:57.247Z"
     }
   ]
 }
