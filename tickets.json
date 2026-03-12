@@ -4,7 +4,7 @@
       "id": "53BA67BF",
       "titulo": "AAAAAAAAAAAAAAAA",
       "descricao": "ASAAAAAAAAAAAAAAAAAA",
-      "categoria": "❌ Download não inicia",
+      "categoria": "â Download nÃ£o inicia",
       "hwid": "34a0d924ea97797c",
       "versao": "",
       "criado_em": "2026-01-23 10:58",
@@ -15,7 +15,7 @@
       "id": "F41D1946",
       "titulo": "aaaaaaaaaaa",
       "descricao": "qadadadadadaadaaaaaaa",
-      "categoria": "💥 App travou/fechou",
+      "categoria": "ð¥ App travou/fechou",
       "hwid": "34a0d924ea97797c",
       "versao": "",
       "criado_em": "2026-01-23 13:41",
@@ -26,7 +26,7 @@
       "id": "B98C8C56",
       "titulo": "aaaaaaa",
       "descricao": "ai ai ai aiaaaaaaaaaa",
-      "categoria": "❌ Download não inicia",
+      "categoria": "â Download nÃ£o inicia",
       "hwid": "34a0d924ea97797c",
       "versao": "",
       "criado_em": "2026-01-24 16:03",
@@ -38,6 +38,24 @@
           "tamanho": 77346
         }
       ]
+    },
+    {
+      "id": "ticket_1773287416339",
+      "nome": "cjgostosão",
+      "email": "cjnobeatoficial@gmail.com",
+      "categoria": "bug",
+      "titulo": "AJEITA AI CJ",
+      "descricao": "ta tudo errado mano",
+      "respostas": [
+        {
+          "autor": "user",
+          "texto": "ta tudo errado mano",
+          "data": "2026-03-12T03:50:16.339Z"
+        }
+      ],
+      "status": "aberto",
+      "criado_em": "2026-03-12T03:50:16.339Z",
+      "atualizado_em": "2026-03-12T03:50:16.339Z"
     }
   ]
 }
